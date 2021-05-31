@@ -25,7 +25,7 @@
 
 **link to site on GitHub Pages:**
 
-    [link](https://github.com/smita-raj12/My-portfolio)
+    [link](https://github.com/smita-raj12/pets)
 
 **copyright and license information:**
 
