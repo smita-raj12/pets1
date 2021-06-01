@@ -2,7 +2,7 @@
   float: left;
   width: fit-content;
 }
-p{
+.p-class{
   width:large;
   font-size: xx-large;
 }
@@ -16,4 +16,10 @@ p{
   width: 50%;
   box-sizing: border-box;
   float:center;
+}
+.h1-class{
+  text-align: center;
+  font-style: bold;
+  font-size: 20mm;
+  color: brown;
 }
