@@ -1,7 +1,19 @@
 .img-class{
   float: left;
-  width: max-content;
+  width: fit-content;
 }
 p{
-  width: 6mm;
+  width:large;
+  font-size: xx-large;
+}
+.box-class{
+  border: 2px solid rgb(47, 82, 238);
+  padding: 5px;
+  background-color: rgb(221, 117, 19);
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 50%;
+  box-sizing: border-box;
+  float:center;
 }
