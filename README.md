@@ -1,32 +1,50 @@
-**Author Name:**
+**Application Name:**
 
-   _Smita_
+  _Pets_
 
-**Project Name:**
+**Name of contributors:**
 
-   _Pets_
+  _smita_   
 
-**Description of Project:**
+**Brief description of the project:**
   
-    * Some inforation about some pets.
+    * Pets Webpage
+    * Dog Webpage
+
+**Technologies used:**
+
+    * Text Editor: visual stodio.
+    * HTML and CSS.
+    
+**Longer description of the project as needed:**
+
+    * Some information about some pets.
     * This Project contains Dog and cat web pages. 
     * Pets sizes.
     * Pets different breads.   
-    * Text Editor: visual stodio.
-    * HTML and CSS.
 
-**Project setup instructions:**
+    
 
+**Complete setup/installation instructions:**
     * visual studio:[click](https://code.visualstudio.com)
-      download and setup.         
+      download and setup.  
+    * [link](https://github.com/smita-raj12/pets1)         
     * Clone this repository to your desktop.
     * Navigate to the directory.
     * Open my-portfolio/index.html.
 
-**link to site on GitHub Pages:**
 
-    [link](https://github.com/smita-raj12/pets)
+**Known bugs**
 
-**copyright and license information:**
+    *Required some more information about Pets.
+    *Need to add Bootstrap class
+
+**License information with a copyright and date:**
 
     [MIT](https://choosealicense.com/)
+
+**Contact information:**
+   
+   *EmailId:smita.raj12@gmail.com
+
+    
