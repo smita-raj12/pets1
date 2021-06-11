@@ -36,8 +36,8 @@
 
 **Known bugs**
 
-    *Required some more information about Pets.
-    *Need to add Bootstrap class
+    * Required some more information about Pets.
+    * Need to add Bootstrap class
 
 **License information with a copyright and date:**
 
